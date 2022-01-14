@@ -1,4 +1,6 @@
 <?xml version="1.0" encording="ISO-8859-1"?>"
+<BDsms xmln:xsi="http://www.w3.org/2001/XMLSchema/XMLschema-instance"
+    xsi:noNamespaceSchemaLocation="DBSMS.xsd">
 <BDSMS>
     <sms>
         <telefono>955 55 66 55</telefono>
