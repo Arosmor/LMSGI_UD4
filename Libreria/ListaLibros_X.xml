@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE lista_libros SYSTEM "ListaLibros.dtd">
-<lista_libros>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lista_libros xmlns:xsi="http://www.w3.org/2001/XMLSchema/XMLschema-instance"
+    xsi:noNamespaceSchemaLocation="ListaLibros.xsd">
     <libro>
         <autores>
             <autor>
                 <apellido1>Rosado</apellido1>
-                <apellido2>Morales</apellido2>
+                <aperllido2>Morales</aperllido2>
                 <nombre>Amos</nombre>
             </autor>
         </autores>
@@ -18,7 +18,7 @@
         <autores>
             <autor>
                 <apellido1>Rosado</apellido1>
-                <apellido2>Morales</apellido2>
+                <aperllido2>Morales</aperllido2>
                 <nombre>Diego</nombre>
             </autor>
         </autores>
@@ -31,7 +31,7 @@
         <autores>
             <autor>
                 <apellido1>Mesa</apellido1>
-                <apellido2>Acebedo</apellido2>
+                <aperllido2>Acebedo</aperllido2>
                 <nombre>Angela</nombre>
             </autor>
         </autores>
@@ -44,12 +44,12 @@
         <autores>
             <autor>
                 <apellido1>Lopez</apellido1>
-                <apellido2>Portillo</apellido2>
+                <aperllido2>Portillo</aperllido2>
                 <nombre>Adrian</nombre>
             </autor>
             <autor>
             <apellido1>Neira</apellido1>
-            <apellido2>Rosalejo</apellido2>
+            <aperllido2>Rosalejo</aperllido2>
             <nombre>Juan Antonio</nombre>
             </autor>
         </autores>
@@ -62,7 +62,7 @@
         <autores>
             <autor>
                 <apellido1>Morales</apellido1>
-                <apellido2>Rosado</apellido2>
+                <aperllido2>Rosado</aperllido2>
                 <nombre>Encarna</nombre>
             </autor>
         </autores>
@@ -75,7 +75,7 @@
         <autores>
             <autor>
                 <apellido1>Rosado</apellido1>
-                <apellido2>Morales</apellido2>
+                <aperllido2>Morales</aperllido2>
                 <nombre>Amos</nombre>
             </autor>
         </autores>
@@ -88,7 +88,7 @@
         <autores>
             <autor>
                 <apellido1>Rosado</apellido1>
-                <apellido2>Morales</apellido2>
+                <aperllido2>Morales</aperllido2>
                 <nombre>Amos</nombre>
             </autor>
         </autores>
@@ -101,7 +101,7 @@
         <autores>
             <autor>
                 <apellido1>Rosado</apellido1>
-                <apellido2>Morales</apellido2>
+                <aperllido2>Morales</aperllido2>
                 <nombre>Amos</nombre>
             </autor>
         </autores>
@@ -114,7 +114,7 @@
         <autores>
             <autor>
                 <apellido1>Rosado</apellido1>
-                <apellido2>Morales</apellido2>
+                <aperllido2>Morales</aperllido2>
                 <nombre>Amos</nombre>
             </autor>
         </autores>
@@ -127,7 +127,7 @@
         <autores>
             <autor>
                 <apellido1>Rosado</apellido1>
-                <apellido2>Morales</apellido2>
+                <aperllido2>Morales</aperllido2>
                 <nombre>Amos</nombre>
             </autor>
         </autores>
