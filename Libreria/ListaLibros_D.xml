@@ -1,0 +1,139 @@
+<?xml version="1.0" encording="UFT"?>"
+<!DOCTYPE BDSMS SYSTEM "ListaLibros.dtd">
+<lista_libros>
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Rosado</apellido1>
+                <aperllido2>Morales</aperllido2>
+                <nombre>Amos</nombre>
+            </autor>
+        </autores>
+        <titulo>Passengers</titulo>
+        <isbn>7889455</isbn>
+        <editorial>Alianza Editorial</editorial>
+        <fecha_de_publicacion>16/02/2007</fecha_de_publicacion>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Rosado</apellido1>
+                <aperllido2>Morales</aperllido2>
+                <nombre>Diego</nombre>
+            </autor>
+        </autores>
+    <titulo>Divergente</titulo>
+    <isbn>4556821</isbn>
+    <editorial>Planeta Comic</editorial>
+    <fecha_de_publicacion>14/06/2017</fecha_de_publicacion>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Mesa</apellido1>
+                <aperllido2>Acebedo</aperllido2>
+                <nombre>Angela</nombre>
+            </autor>
+        </autores>
+    <titulo>LosJuegos del Hambre</titulo>
+    <isbn>7565398</isbn>
+    <editorial>ECC Ediciones</editorial>
+    <fecha_de_publicacion>12/08/1992</fecha_de_publicacion>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Lopez</apellido1>
+                <aperllido2>Portillo</aperllido2>
+                <nombre>Adrian</nombre>
+            </autor>
+            <autor>
+            <apellido1>Neira</apellido1>
+            <aperllido2>Rosalejo</aperllido2>
+            <nombre>Juan Antonio</nombre>
+            </autor>
+        </autores>
+    <titulo>Harry Potter</titulo>
+    <isbn>4848448</isbn>
+    <editorial>Cascada Editorial</editorial>
+    <fecha_de_publicacion>25/03/2005</fecha_de_publicacion>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Morales</apellido1>
+                <aperllido2>Rosado</aperllido2>
+                <nombre>Encarna</nombre>
+            </autor>
+        </autores>
+    <titulo>Don Quijote</titulo>
+    <isbn>511555</isbn>
+    <editorial>Libros Ed</editorial>
+    <fecha_de_publicacion>06/09/2021</fecha_de_publicacion>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Rosado</apellido1>
+                <aperllido2>Morales</aperllido2>
+                <nombre>Amos</nombre>
+            </autor>
+        </autores>
+    <titulo>Passengers</titulo>
+    <isbn>7889455</isbn>
+    <editorial>Alianza Editorial</editorial>
+    <fecha_de_publicacion>16/02/2007</fecha_de_publicacion>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Rosado</apellido1>
+                <aperllido2>Morales</aperllido2>
+                <nombre>Amos</nombre>
+            </autor>
+        </autores>
+    <titulo>Passengers</titulo>
+    <isbn>7889455</isbn>
+    <editorial>Alianza Editorial</editorial>
+    <fecha_de_publicacion>16/02/2007</fecha_de_publicacion>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Rosado</apellido1>
+                <aperllido2>Morales</aperllido2>
+                <nombre>Amos</nombre>
+            </autor>
+        </autores>
+    <titulo>Passengers</titulo>
+    <isbn>7889455</isbn>
+    <editorial>Alianza Editorial</editorial>
+    <fecha_de_publicacion>16/02/2007</fecha_de_publicacion>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Rosado</apellido1>
+                <aperllido2>Morales</aperllido2>
+                <nombre>Amos</nombre>
+            </autor>
+        </autores>
+    <titulo>Passengers</titulo>
+    <isbn>7889455</isbn>
+    <editorial>Alianza Editorial</editorial>
+    <fecha_de_publicacion>16/02/2007</fecha_de_publicacion>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <apellido1>Rosado</apellido1>
+                <aperllido2>Morales</aperllido2>
+                <nombre>Amos</nombre>
+            </autor>
+        </autores>
+    <titulo>Passengers</titulo>
+    <isbn>7889455</isbn>
+    <editorial>Alianza Editorial</editorial>
+    <fecha_de_publicacion>16/02/2007</fecha_de_publicacion>
+    </libro>
+</lista_libros>
