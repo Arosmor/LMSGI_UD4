@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientes>
+    <sede>
+        <codigoSede>F34432</codigoSede>
+        <direccion>calle alfonso III</direccion>
+        <empleado>Pablo</empleado>
+        <fechaAlta>22/07/2014</fechaAlta>
+        <descripcion>solvente</descripcion>
+        <cliente>
+            <codigoCliente>EFT-654</codigoCliente>
+            <numero>3</numero>
+            <coste>5214€</coste>
+            <Resumen>altas</Resumen>
+            <plazo>34 dias</plazo>
+        </cliente>
+    </sede>
+    <sede>
+        <codigoSede>K728665</codigoSede>
+        <direccion>calle ronda</direccion>
+        <empleado>Manuel</empleado>
+        <fechaAlta>29/03/2007</fechaAlta>
+        <descripcion>insolvente</descripcion>
+        <cliente>
+            <codigoCliente>WUL-576</codigoCliente>
+            <numero>2</numero>
+            <coste>8775€</coste>
+            <Resumen>bajas</Resumen>
+            <plazo>25 dias</plazo>
+        </cliente>
+    </sede>
+</clientes>

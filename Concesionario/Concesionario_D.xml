@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concesionario SYSTEM "Concesionario.dtd">
+<concesionario>
+    <coche>
+        <codigo>01</codigo>
+        <marca>renault</marca>
+        <modelo>megane</modelo>
+        <matricula>5847HT</matricula>
+        <potencia>300</potencia>
+        <plazas>5</plazas>
+        <numPuertas>5</numPuertas>
+    </coche>
+    <coche>
+        <codigo>03</codigo>
+        <marca>audi</marca>
+        <modelo>a3</modelo>
+        <matricula>2344LHT</matricula>
+        <potencia>500</potencia>
+        <plazas>5</plazas>
+        <numPuertas>3</numPuertas>
+    </coche>
+    <coche>
+        <codigo>08</codigo>
+        <marca>audi</marca>
+        <modelo>Q5</modelo>
+        <matricula>4562TFT</matricula>
+        <potencia>1000</potencia>
+        <plazas>7</plazas>
+        <numPuertas>5</numPuertas>
+    </coche>
+    <coche>
+        <codigo>05</codigo>
+        <marca>seat</marca>
+        <modelo>ibiza</modelo>
+        <matricula>4534PLT</matricula>
+        <potencia>110</potencia>
+        <plazas>5</plazas>
+        <numPuertas>5</numPuertas>
+    </coche>
+    <coche>
+        <codigo>03</codigo>
+        <marca>seat</marca>
+        <modelo>LEON</modelo>
+        <matricula>4765AWT</matricula>
+        <potencia>110</potencia>
+        <plazas>5</plazas>
+        <numPuertas>5</numPuertas>
+    </coche>
+</concesionario>
