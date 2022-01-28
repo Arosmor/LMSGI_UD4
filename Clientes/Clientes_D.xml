@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE clientes SYSTEM "Clientes.dtd">
 <clientes>
-    <sede>
-        <codigoSede>F34432</codigoSede>
+    <sede codigo="f3324234">
         <direccion>calle alfonso III</direccion>
         <empleado>Pablo</empleado>
         <fechaAlta>22/07/2014</fechaAlta>
         <descripcion>solvente</descripcion>
-        <cliente>
-            <codigoCliente>EFT-654</codigoCliente>
+        <cliente codigo="ERF-234">
             <numero>3</numero>
             <coste>5214€</coste>
             <Resumen>altas</Resumen>
             <plazo>34 dias</plazo>
         </cliente>
     </sede>
-    <sede>
-        <codigoSede>K728665</codigoSede>
+    <sede codigo="B7766277">
         <direccion>calle ronda</direccion>
         <empleado>Manuel</empleado>
         <fechaAlta>29/03/2007</fechaAlta>
